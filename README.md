@@ -11,10 +11,10 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 <p float="left">
   <a href="https://www.python.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/python.png"  height="85"  style="margin:0px 30px;"/>
-  </a>
+  </a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/docker.gif"  height="80"   style="margin:0px 30px;"/> 
-  </a>
+  </a>&nbsp; &nbsp; &nbsp;
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/web.png" height="90"  style="margin:0px 30px;"/>
   </a>
@@ -25,7 +25,8 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
  <p float="left">
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/do.png"  height="75" style="margin:0px 30px;" />
-  </a> 
+  </a> &nbsp; &nbsp; &nbsp;
+
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/aws.gif"  height="75" style="margin:0px 30px;"/>
   </a>
@@ -36,11 +37,12 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
  <p float="left">
     <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/pydjango.png"  height="75" style="margin:0px 30px;" />
-  </a> 
+  </a> &nbsp; &nbsp; &nbsp;
 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/flask.png"  height="75" style="margin:0px 30px;"/>
-  </a>
+  </a>&nbsp; &nbsp; &nbsp;
+
   <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/nodejs.png"  height="75" style="margin:0px 30px;" />
   </a> 
@@ -52,7 +54,8 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
  <p float="left">
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/postgresql.gif" height="100" style="margin:0px 30px;"/>
-  </a>
+  </a>&nbsp; &nbsp; &nbsp;
+
   <a href="https://www.mysql.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/mysql.png" width="80" style="margin:0px 30px;"/>
   </a>
