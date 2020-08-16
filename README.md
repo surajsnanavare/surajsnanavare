@@ -23,7 +23,7 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 ### Cloud Service Providers
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
+  <a href="https://m.do.co/c/9df45e9482dc" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/do.png"  height="75" style="margin:0px 30px;" />
   </a> &nbsp; &nbsp; &nbsp;
 
@@ -35,15 +35,15 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 ### Frameworks
 
  <p float="left">
-    <a href="https://bit.ly/2W7a91W" target="_blank" >
+    <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/pydjango.png"  height="75" style="margin:0px 30px;" />
   </a> &nbsp; &nbsp; &nbsp;
 
-  <a href="https://aws.amazon.com/" target="_blank" >
+  <a href="https://flask.palletsprojects.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/flask.png"  height="75" style="margin:0px 30px;"/>
   </a>&nbsp; &nbsp; &nbsp;
 
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
+  <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/nodejs.png"  height="75" style="margin:0px 30px;" />
   </a> 
 
