@@ -35,7 +35,12 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 ### Frameworks
 
  <p float="left">
-    <a href="https://www.djangoproject.com/" target="_blank" >
+  
+  <a href="hthttps://reactjs.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/react.png" height="70"  style="margin:0px 50px;"/>
+  </a>
+
+  <a href="https://www.djangoproject.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/pydjango.png"  height="75" style="margin:0px 30px;" />
   </a> &nbsp; &nbsp; &nbsp;
 
@@ -46,6 +51,7 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
   <a href="https://nodejs.org/en/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/nodejs.png"  height="75" style="margin:0px 30px;" />
   </a> 
+
 
  </p>
 
@@ -60,6 +66,19 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/mysql.png" width="80" style="margin:0px 30px;"/>
   </a>
 </p>
+
+### Other
+ <p float="left">
+  <a href="https://graphql.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/graphql.svg" height="100" style="margin:0px 30px;"/>
+  </a>&nbsp; &nbsp; &nbsp;
+
+  <a href="https://jekyllrb.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/jekyll.png" height="100" style="margin:0px 30px;"/>
+  </a>&nbsp; &nbsp; &nbsp;
+
+</p>
+
 
 ### 📫 How to reach me? 
   > Visit my [Website](https://www.surajnanavare.com) 🌐 <br>
