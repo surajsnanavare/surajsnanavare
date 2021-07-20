@@ -79,6 +79,8 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 
 </p>
 
+### My Gists:
+[Here](https://gist.github.com/surajsnanavare) you can find cool tips & tricks, articles which makes life of developer easy.
 
 ### 📫 How to reach me? 
   > Visit my [Website](https://www.surajnanavare.com) 🌐 <br>
