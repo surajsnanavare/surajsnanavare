@@ -4,7 +4,7 @@
 **surajsnanavare/surajsnanavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Suraj](https://www.surajnanavare.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Python, Angular/React development. 🎯
+I am [Suraj](https://www.surajnanavare.com/), a passionate and creative developer from India [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Python, Angular/React development. 🎯
 
 I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 
