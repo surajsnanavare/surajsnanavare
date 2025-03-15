@@ -4,7 +4,7 @@
 **surajsnanavare/surajsnanavare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Suraj](https://www.surajnanavare.com/), a passionate and creative developer from India [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Python, Angular/React development. 🎯
+I am [Suraj](https://www.surajnanavare.com/), a passionate and creative developer from India [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Python development. 🎯
 
 I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 
@@ -23,6 +23,10 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 ### Cloud Service Providers
   
  <p float="left">
+  <a href="https://cloud.google.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/gcp.png"  height="75" style="margin:0px 30px;" />
+  </a> &nbsp; &nbsp; &nbsp;
+
   <a href="https://m.do.co/c/9df45e9482dc" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/do.png"  height="75" style="margin:0px 30px;" />
   </a> &nbsp; &nbsp; &nbsp;
@@ -58,6 +62,10 @@ I mostly work with Python, Javascript and Cloud technologies.☁️🚀
 ### Databases
   
  <p float="left">
+  <a href="https://www.oracle.com/in/database" target="_blank" >
+    <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/oracle_db.png" height="100" style="margin:0px 30px;"/>
+  </a>&nbsp; &nbsp; &nbsp;
+
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/surajsnanavare/surajsnanavare/master/assets/postgresql.gif" height="100" style="margin:0px 30px;"/>
   </a>&nbsp; &nbsp; &nbsp;
